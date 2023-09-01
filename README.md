@@ -10,7 +10,7 @@
 - Nacionalidad: Argentino
 - Domicilio: Finlandia 1684
 - Localidad: Pte. Derqui
-- Estadi civil: Casado
+- Estado civil: Casado
 
 
 
